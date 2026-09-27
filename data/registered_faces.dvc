@@ -1,0 +1,6 @@
+outs:
+- md5: 944791f905cf1c745d8cd7f0efd6c30e.dir
+  size: 271659
+  nfiles: 31
+  hash: md5
+  path: registered_faces

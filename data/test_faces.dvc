@@ -1,0 +1,6 @@
+outs:
+- md5: eb1acf065dd3a97f052f2904e572afb1.dir
+  size: 448394184
+  nfiles: 17553
+  hash: md5
+  path: test_faces

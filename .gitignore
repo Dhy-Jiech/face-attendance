@@ -10,3 +10,5 @@ __pycache__/
 
 # Bỏ qua cấu hình riêng của VS Code
 .vscode/
+/registered_faces
+/test_faces
